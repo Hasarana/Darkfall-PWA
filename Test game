@@ -1,0 +1,8 @@
+darkfall-pwa/
+ ├─ index.html
+ ├─ manifest.json
+ ├─ service-worker.js
+ ├─ /assets
+ │    ├─ icon-192.png
+ │    └─ icon-512.png
+ └─ (all game code here: js, art, maps, etc.)
